@@ -14,6 +14,7 @@ namespace Faker;
  * @method string title(string $gender = null)
  * @property string $titleMale
  * @property string $titleFemale
+ * @property string $secondName
  *
  * @property string $citySuffix
  * @property string $streetSuffix
